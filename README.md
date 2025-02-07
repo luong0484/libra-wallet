@@ -31,7 +31,7 @@ Ensure you have the following installed:
 
 ```
 # Clone the repository
-git clone https://github.com/your-repository/libra-wallet.git
+git clone https://github.com/luong0484/libra-wallet.git
 cd libra-wallet
 
 # Build the project
